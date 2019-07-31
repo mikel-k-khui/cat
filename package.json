@@ -1,0 +1,25 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncBreeds.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "test-single": "./node_modules/mocha/bin/mocha $1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikel-k-khui/cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikel-k-khui/cat/issues"
+  },
+  "homepage": "https://github.com/mikel-k-khui/cat#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
